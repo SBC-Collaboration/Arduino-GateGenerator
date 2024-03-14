@@ -1,3 +1,4 @@
+**This repository has been moved to https://github.com/SBC-Collaboration/SBC-ArduinoSketches**
 
 # Arduino-GateGenerator
 Generates the clock signal that control image acquisition and illumination for SBC.
